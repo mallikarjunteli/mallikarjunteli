@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mallikarjun Teli</h1>
-<h3 align="center">A passionate Data Science from India</h3>
+<h3 align="center">A Passionate Data Science from India</h3>
 
-<img align="right" alt="coding" width="400" src="(https://github.com/mallikarjunteli/mallikarjunteli/assets/107787725/73b895db-d29a-4718-a7fa-3669a217ff4e)](https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif)">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mallikarjunteli&label=Profile%20views&color=0e75b6&style=flat" alt="mallikarjunteli" /> </p>
