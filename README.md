@@ -1,3 +1,4 @@
+![logo](https://github.com/mallikarjunteli/mallikarjunteli/blob/main/Hi%2C%20I%20am%20Mallikarjun%20Teli.png)
 <h1 align="center">Hi 👋, I'm Mallikarjun Teli</h1>
 <h3 align="center">A Passionate Data Science from India</h3>
 
