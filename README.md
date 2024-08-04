@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Data Science, Machine Learning, Artificial Intelligence**
 
-- 👨‍💻 All of my projects are available at [https://64fb01baa1f72c6a03d38397--sparkly-cassata-4d12dc.netlify.app/](https://64fb01baa1f72c6a03d38397--sparkly-cassata-4d12dc.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://66a7e5331dc65f60b59e25e9--unique-licorice-18ab26.netlify.app/](https://66a7e5331dc65f60b59e25e9--unique-licorice-18ab26.netlify.app/)
 
 - 💬 Ask me about **Data science, Machine Learning, Deep Learning, Artificial Intelligence**
 
